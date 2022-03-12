@@ -3,7 +3,7 @@
 //  ResiRest
 //
 //  Created by Augusto Galindo Alí on 24/09/21.
-//
+// Check if SSH is working
 
 import SwiftUI
 
